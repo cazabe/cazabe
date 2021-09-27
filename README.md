@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**cazabe/cazabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cazabe**
 
 
 - I’m currently working on Js, typeScript, python,
