@@ -4,7 +4,7 @@
 **I’m cazabe**
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cazabe=true&show_icons=true&hide=prs&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cazabe&show_icons=true&theme=radical" />
 
 
 - I’m currently working on Js, typeScript, python,
