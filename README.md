@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cazabe&show_icons=true&theme=highcontrast" />
 
 
-- :simple_smile: I’m currently working on Js, typeScript, python,
+- 🤓 I’m currently working on Js, typeScript, python,
 - 🌱 I’m currently learning Flutter, React Native, mobile technology's
 - 🤔 I’m looking for help with any projects
 - 💬 Ask me about anything
