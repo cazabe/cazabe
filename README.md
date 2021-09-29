@@ -9,7 +9,7 @@
 
 - 🤓 I’m currently working on Js, typeScript, python,
 - 🌱 I’m currently learning Flutter, React Native, mobile technology's
-- 🤔 I’m looking for help with any projects
+- 🤔 I’m looking to meet new peopke and helping on projects
 - 💬 Ask me about anything
 - 📫 How to reach me: cazcarlos@hotmail.com
 - :neckbeard: You can always learn something new from anyone, and that is amazing
