@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cazabe&show_icons=true&theme=highcontrast" />
 
 
-- 🤓 I’m currently working on Js and python
+- 🤓 I’m currently working on React, Node JS and Flutter
 - 🌱 I’m currently learning Flutter for mobile development
 - 🤔 I’m looking to meet new people and helping on projects
 - 💬 Ask me about anything
